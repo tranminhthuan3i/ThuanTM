@@ -9,3 +9,5 @@ Some text ....ZZZZZYYYY_TEST2
 --Branch test1 has changed the code --
 Some text ....ZZZZZYYYY_TEST2
 
+--TEST changed the code ---
+
