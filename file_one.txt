@@ -2,3 +2,5 @@ Person 1:
 
 --Master has changed ----
 Some text ....ZZZZZYYYY_TEST2
+
+--Master has changed 2---
