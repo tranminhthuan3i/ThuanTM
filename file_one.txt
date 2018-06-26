@@ -1,1 +1,4 @@
-Person 1: Some text ....ZZZZZYYYY_TEST2
+Person 1: 
+
+--Master has changed ----
+Some text ....ZZZZZYYYY_TEST2
