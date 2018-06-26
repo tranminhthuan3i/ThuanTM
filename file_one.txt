@@ -1,6 +1,11 @@
 Person 1: 
 
+
 --Master has changed ----
 Some text ....ZZZZZYYYY_TEST2
 
 --Master has changed 2---
+
+--Branch test1 has changed the code --
+Some text ....ZZZZZYYYY_TEST2
+
